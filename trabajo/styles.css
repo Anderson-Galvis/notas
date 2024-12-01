@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    height: 100vh;
+    padding-top: 10%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.texto{
+    font-size: x-large;
+}
+
+button{
+    height: 60px;
+    width: 350px;
+    border-radius: 100px;
+}
+
+
+section{
+    display: flex;
+    gap: 300px;
+}
+.cj{
+    margin-top: 30px;
+    height: 50px;
+    width: 450px;
+    border: 2px solid black;
+    background-color: brown;
+    text-align: center;
+    padding-top: 10px;
+}
